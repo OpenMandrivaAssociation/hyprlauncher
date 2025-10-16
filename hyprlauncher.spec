@@ -21,6 +21,7 @@ BuildRequires:	hyprwire
 BuildRequires:	pkgconfig(aquamarine)
 BuildRequires:  pkgconfig(hyprgraphics)
 BuildRequires:  pkgconfig(cairo)
+BuildRequires:  pkgconfig(xkbcommon)
 
 Requires:	wl-clipboard
 
