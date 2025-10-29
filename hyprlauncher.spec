@@ -1,5 +1,5 @@
 Name:		hyprlauncher
-Version:	0.1.1
+Version:	0.1.2
 Release:	1
 Source0:	https://github.com/hyprwm/hyprlauncher/archive/v%{version}/%{name}-v%{version}.tar.gz
 Summary:	A multipurpose and versatile launcher / picker for Hyprland
