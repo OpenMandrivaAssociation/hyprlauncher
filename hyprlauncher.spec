@@ -1,9 +1,9 @@
 Name:		hyprlauncher
 Version:	0.1.5
-Release:	3
+Release:	4
 Source0:	https://github.com/hyprwm/hyprlauncher/archive/v%{version}/%{name}-v%{version}.tar.gz
 Summary:	A multipurpose and versatile launcher / picker for Hyprland
-URL:		https://github.com/hyprlauncher/hyprlauncher
+URL:		https://github.com/hyprwm/hyprlauncher
 License:	BSD-3-Clause
 Group:		Window Manager/Hyprland
 
